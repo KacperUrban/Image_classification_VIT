@@ -8,6 +8,7 @@ __pycache__/
 # data
 data
 models.txt
+models
 # Distribution / packaging
 .Python
 build/
