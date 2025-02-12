@@ -27,6 +27,8 @@ This table describe all test which was conducted. The first column depicte what 
 | Night-Autumn| 0.034              | 0.037157      | 0.036               | 0.036825      | 0.04           | 0.039468   |
 | Random      | 0.98               | 0.97962       | 0.98                | 0.97857       | 0.78667        | 0.78119    |
 
+# Future improvements
+I plan to create a small application with FastAPI and probably with streamlit to enable easy usage of trained models.
 
 # Status
 The project is on going.
